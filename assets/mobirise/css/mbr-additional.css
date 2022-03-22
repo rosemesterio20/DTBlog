@@ -35,11 +35,11 @@ body {
 }
 .display-7 {
   font-family: 'Lexend', sans-serif;
-  font-size: 1.9rem;
+  font-size: 1.2rem;
   line-height: 1.5;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2.375rem;
+  font-size: 1.5rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -73,9 +73,9 @@ body {
     line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 1.52rem;
-    font-size: calc( 1.315rem + (1.9 - 1.315) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.315rem + (1.9 - 1.315) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1915,7 +1915,7 @@ a {
 .cid-sXXRUJ43dv {
   padding-top: 1rem;
   padding-bottom: 0rem;
-  background-color: #6ec7f2;
+  background-color: #325aa1;
 }
 .cid-sXXRUJ43dv .image-wrap img {
   width: 100%;
@@ -1949,7 +1949,7 @@ a {
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  border: 2px solid #6592e6;
+  border: 2px solid #325aa1;
   top: 30px;
   margin-left: -9px;
   padding: 0;
@@ -1960,7 +1960,7 @@ a {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #6592e6;
+  background-color: #325aa1;
   left: 33.33%;
   height: calc(100% + 30px);
 }
